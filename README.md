@@ -14,5 +14,11 @@
 
 * 5-execute : add execute privilege to the ower of the file hello
 
-* 6-multiple_permissions : add execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+* 6-multiple_permissions : add execute permission to the owner and the group owner, and read permission to other users, to the file hello
+
+* 7-everybody : add execution permission to all (owner, group and others) to the file hell
+
+* 8-James_Bond : remove all permission from owner and group and add all permissions to others to the file hello
+
+* 9-John_Doe : set permission modes to "-rwxr-x-wx" to the file hello
 
