@@ -24,3 +24,5 @@
 
 * 10-mirror_permissions : set the mode of hello the same as olleh's
 
+* 11-directories_permissions : add execution permission to all subdirectories for everyone
+
