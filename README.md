@@ -28,3 +28,5 @@
 
 * 12-directory_permissions : create a directory called my_dir with mode 751 in the working directory
 
+* 13-change_group : change the group owner to school for the file hello
+
