@@ -22,3 +22,5 @@
 
 * 9-John_Doe : set permission modes to "-rwxr-x-wx" to the file hello
 
+* 10-mirror_permissions : set the mode of hello the same as olleh's
+
