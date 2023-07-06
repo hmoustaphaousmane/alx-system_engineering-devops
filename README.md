@@ -30,3 +30,5 @@
 
 * 13-change_group : change the group owner to school for the file hello
 
+* 100-change_owner_and_group : change the owner to vincent and group to staff for all items in the working directory
+
