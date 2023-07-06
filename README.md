@@ -6,3 +6,5 @@
 
 * 1-who_am_i : print the effective username of the current user
 
+* 2-groups : print current user's groups list
+
