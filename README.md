@@ -12,3 +12,4 @@
 
 * 4-empty : create an empty file name hello
 
+* 5-execute : add execute privilege to the ower of the file hello
