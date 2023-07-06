@@ -34,3 +34,5 @@
 
 * 101-symbolic_link_permissions : change owner and group of \_hello to vincent and staff respectively
 
+* 102-if_only : change the owner of hello to betty if it is owned by guillaum
+
