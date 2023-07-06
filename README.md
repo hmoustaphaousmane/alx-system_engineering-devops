@@ -26,3 +26,5 @@
 
 * 11-directories_permissions : add execution permission to all subdirectories for everyone
 
+* 12-directory_permissions : create a directory called my_dir with mode 751 in the working directory
+
