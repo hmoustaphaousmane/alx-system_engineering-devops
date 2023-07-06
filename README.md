@@ -32,3 +32,5 @@
 
 * 100-change_owner_and_group : change the owner to vincent and group to staff for all items in the working directory
 
+* 101-symbolic_link_permissions : change owner and group of \_hello to vincent and staff respectively
+
