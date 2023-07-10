@@ -12,3 +12,5 @@
 
 * 4-lastlines : display the 10 last lines of /etc/passwd
 
+* 5-firstlines : display the 10 firt lines of /etc/passwd
+
