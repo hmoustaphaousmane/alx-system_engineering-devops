@@ -14,3 +14,5 @@
 
 * 5-firstlines : display the 10 firt lines of /etc/passwd
 
+* 6-third_line : display the third line of the file iacta
+
