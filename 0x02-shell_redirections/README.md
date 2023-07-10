@@ -6,3 +6,4 @@
 
 * 1-confused_smiley : display a confused smiley "(Ôo)'
 
+* 2-hellofile : display the content of /etc/passwd
