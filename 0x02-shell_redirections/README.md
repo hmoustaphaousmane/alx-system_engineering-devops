@@ -10,3 +10,5 @@
 
 * 3-twofiles : display the content of two files (/etc/passwd and /etc/hosts)
 
+* 4-lastlines : display the 10 last lines of /etc/passwd
+
