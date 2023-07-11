@@ -43,3 +43,7 @@
 * 19-AZ : replace all characters A and c from input to Z and e respectively
 
 * 20-hiago : remove all letters c and C from input
+
+* 21-reverse : reverce the input
+
+* 22-users_and_homes : dispaly all users and their home directories, sorted by users
