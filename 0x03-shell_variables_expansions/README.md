@@ -26,7 +26,7 @@
 
 * 11-binary_to_decimal : convert to decimal base the binary number stored in the environment variable BINARY
 
-* 
+* 12-combinations : script that prints all possible combinations of two letters, except oo
 
 * 13-print_float : display the number stored in the environment variable NUM with two decimal places
 
