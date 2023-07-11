@@ -14,3 +14,5 @@
 
 * 5-local_variables : list all variables (local and global) and functions
 
+* 6-create_local_variable : create a new local variable namde BEST that has the valueSchool
+
