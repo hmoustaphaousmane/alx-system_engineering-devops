@@ -4,6 +4,8 @@
 
 * 0-alias : create an alias named "ls" with the value "rm *"
 
-* 1-hello_you : print hello user, where user is the current Linux user.
+* 1-hello_you : print hello user, where user is the current Linux user
+
+* 2-path : add the directory /action to the PATH
 
 
