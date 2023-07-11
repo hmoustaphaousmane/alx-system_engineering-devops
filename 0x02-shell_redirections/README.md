@@ -26,3 +26,5 @@
 
 * 11-directories : count the number of directories and subdirectories in the current working directory
 
+* 12-newest_files : display the 10 newest files in the current directory
+
