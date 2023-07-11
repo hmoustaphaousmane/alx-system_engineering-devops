@@ -11,3 +11,6 @@
 * 3-paths : count the number of directories in the PATH
 
 * 4-global_variables : list environment variables
+
+* 5-local_variables : list all variables (local and global) and functions
+
