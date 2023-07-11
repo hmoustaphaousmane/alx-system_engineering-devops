@@ -22,3 +22,5 @@
 
 * 9-divide_and_rule : print the result of POWER divided by DIVIDE
 
+* 10-love_exponent_breath : print the result of BREATH to the power LOVE
+
