@@ -17,3 +17,6 @@
 * 6-create_local_variable : create a new local variable namde BEST that has the valueSchool
 
 * 7-create_global_variable : create a new global variable named BEST and has the value School
+
+* 8-true_knowledge : print the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+
