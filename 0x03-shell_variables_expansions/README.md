@@ -24,3 +24,5 @@
 
 * 10-love_exponent_breath : print the result of BREATH to the power LOVE
 
+* 11-binary_to_decimal : convert to decimal base the binary number stored in the environment variable BINARY
+
