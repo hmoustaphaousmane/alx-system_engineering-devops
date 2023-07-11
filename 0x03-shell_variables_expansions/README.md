@@ -8,4 +8,5 @@
 
 * 2-path : add the directory /action to the PATH
 
+* 3-paths : count the number of directories in the PATH
 
