@@ -34,3 +34,5 @@
 
 * 15-countthatword : diplay the count of the lines that contain "bin" in the file /etc/passwd
 
+* 16-whatsnext : display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
