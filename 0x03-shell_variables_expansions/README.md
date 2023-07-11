@@ -16,3 +16,4 @@
 
 * 6-create_local_variable : create a new local variable namde BEST that has the valueSchool
 
+* 7-create_global_variable : create a new global variable named BEST and has the value School
