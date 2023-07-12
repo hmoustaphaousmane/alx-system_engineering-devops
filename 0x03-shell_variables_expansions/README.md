@@ -34,3 +34,5 @@
 
 * 101-rot13 :  encode and decode text using the rot13 encryption
 
+* 102-odd : every other line from the input, starting with the first line
+
