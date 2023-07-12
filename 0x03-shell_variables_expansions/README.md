@@ -30,3 +30,7 @@
 
 * 13-print_float : display the number stored in the environment variable NUM with two decimal places
 
+* 100-decimal_to_hexadecimal : convert a number from base 10 to base 16
+
+* 101-rot13 :  encode and decode text using the rot13 encryption
+
