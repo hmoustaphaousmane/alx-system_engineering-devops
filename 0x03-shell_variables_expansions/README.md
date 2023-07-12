@@ -36,3 +36,4 @@
 
 * 102-odd : every other line from the input, starting with the first line
 
+* 103-water_and_stir : add the two numbers stored in the environment variables WATER and STIR and print the result.
